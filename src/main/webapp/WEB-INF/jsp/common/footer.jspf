@@ -1,0 +1,31 @@
+
+<script>
+	
+	$('#borrowedDate').datepicker({
+		format : 'dd/mm/yyyy'
+	});
+	
+</script>
+
+
+
+
+
+<div class="container" align="center">
+    <hr color="lite blue">
+
+    <a href="#">Smart Library</a>
+</div>
+
+</body>
+<script src="webjars/bootstrap/4.3.1/js/bootstrap.min.js" ></script>
+<script src="webjars/jquery/2.1.4/jquery.min.js"></script>
+
+
+
+</body>
+
+
+
+</body>
+</html>
